@@ -1,0 +1,8 @@
+{
+  "name": "cline-sdk-service",
+  "type": "module",
+  "dependencies": {
+    "@cline/sdk": "latest",
+    "express": "latest"
+  }
+}
